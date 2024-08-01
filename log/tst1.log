@@ -1,0 +1,6 @@
+2024-06-24 11:19:53,586 - log_test.py:19 - 20 INFO /home/yhzhu/work/prj/csk5/python/log/log_test.py log_test <module> 1719199193.586908 124870185509312 MainThread 3572102 tst - first info message
+2024-06-24 11:19:53,587 - log_test.py:20 - 10 DEBUG /home/yhzhu/work/prj/csk5/python/log/log_test.py log_test <module> 1719199193.587179 124870185509312 MainThread 3572102 tst - first debug message
+2024-06-24 11:19:58,591 - log_test.py:19 - 20 INFO /home/yhzhu/work/prj/csk5/python/log/log_test.py log_test <module> 1719199198.591983 124870185509312 MainThread 3572102 tst - first info message
+2024-06-24 11:19:58,592 - log_test.py:20 - 10 DEBUG /home/yhzhu/work/prj/csk5/python/log/log_test.py log_test <module> 1719199198.592219 124870185509312 MainThread 3572102 tst - first debug message
+2024-06-24 11:20:03,595 - log_test.py:19 - 20 INFO /home/yhzhu/work/prj/csk5/python/log/log_test.py log_test <module> 1719199203.595074 124870185509312 MainThread 3572102 tst - first info message
+2024-06-24 11:20:03,595 - log_test.py:20 - 10 DEBUG /home/yhzhu/work/prj/csk5/python/log/log_test.py log_test <module> 1719199203.595434 124870185509312 MainThread 3572102 tst - first debug message
